@@ -1,0 +1,469 @@
+Enter a valid file name to be read: 
+text1.txt
+HashBrown roundup: 
+Initial value: , 	Located at index: 13
+Initial value: THE, 	Located at index: 306
+Initial value: , 	Located at index: 17
+Initial value: PEOPLE, 	Located at index: 307
+Initial value: , 	Located at index: 21
+Initial value: , 	Located at index: 308
+Initial value: , 	Located at index: 33
+Initial value: THE, 	Located at index: 310
+Initial value: , 	Located at index: 43
+Initial value: PEOPLE, 	Located at index: 311
+Initial value: , 	Located at index: 48
+Initial value: , 	Located at index: 312
+Initial value: , 	Located at index: 57
+Initial value: THE, 	Located at index: 314
+Initial value: , 	Located at index: 61
+Initial value: PEOPLE, 	Located at index: 315
+Initial value: , 	Located at index: 73
+Initial value: , 	Located at index: 316
+Initial value: , 	Located at index: 84
+Initial value: NOT, 	Located at index: 318
+Initial value: , 	Located at index: 102
+Initial value: THE, 	Located at index: 321
+Initial value: , 	Located at index: 115
+Initial value: , 	Located at index: 120
+Initial value: A, 	Located at index: 14
+Initial value: DEAD, 	Located at index: 151
+Initial value: DID, 	Located at index: 192
+Initial value: AND, 	Located at index: 2
+Initial value: AGO, 	Located at index: 5
+Initial value: CONCEIVED, 	Located at index: 18
+Initial value: HAVE, 	Located at index: 75
+Initial value: MEN, 	Located at index: 29
+Initial value: FATHERS, 	Located at index: 7
+Initial value: SCORE, 	Located at index: 1
+Initial value: SEVEN, 	Located at index: 3
+Initial value: ON, 	Located at index: 10
+Initial value: FOUR, 	Located at index: 0
+Initial value: YEARS, 	Located at index: 4
+Initial value: TO, 	Located at index: 24
+Initial value: OUR, 	Located at index: 6
+Initial value: BROUGHT, 	Located at index: 8
+Initial value: THIS, 	Located at index: 11
+Initial value: IN, 	Located at index: 19
+Initial value: FORTH, 	Located at index: 9
+Initial value: PROPOSITION, 	Located at index: 26
+Initial value: CONTINENT, 	Located at index: 12
+Initial value: LIBERTY, 	Located at index: 20
+Initial value: NEW, 	Located at index: 15
+Initial value: GREAT, 	Located at index: 40
+Initial value: NATION, 	Located at index: 16
+Initial value: ALL, 	Located at index: 28
+Initial value: WE, 	Located at index: 35
+Initial value: AND, 	Located at index: 22
+Initial value: THAT, 	Located at index: 27
+Initial value: NOW, 	Located at index: 34
+Initial value: WAR, 	Located at index: 42
+Initial value: ARE, 	Located at index: 30
+Initial value: DEDICATED, 	Located at index: 23
+Initial value: TESTING, 	Located at index: 44
+Initial value: CREATED, 	Located at index: 31
+Initial value: GREAT, 	Located at index: 67
+Initial value: WHETHER, 	Located at index: 45
+Initial value: THE, 	Located at index: 25
+Initial value: WE, 	Located at index: 62
+Initial value: ANY, 	Located at index: 50
+Initial value: ARE, 	Located at index: 36
+Initial value: SO, 	Located at index: 52
+Initial value: EQUAL, 	Located at index: 32
+Initial value: CONCEIVED, 	Located at index: 53
+Initial value: THAT, 	Located at index: 46
+Initial value: SO, 	Located at index: 55
+Initial value: ARE, 	Located at index: 63
+Initial value: ENGAGED, 	Located at index: 37
+Initial value: NATION, 	Located at index: 47
+Initial value: BATTLE, 	Located at index: 68
+Initial value: ON, 	Located at index: 65
+Initial value: FIELD, 	Located at index: 69
+Initial value: IN, 	Located at index: 38
+Initial value: OF, 	Located at index: 70
+Initial value: WAR, 	Located at index: 72
+Initial value: COME, 	Located at index: 76
+Initial value: NATION, 	Located at index: 51
+Initial value: A, 	Located at index: 39
+Initial value: WE, 	Located at index: 74
+Initial value: PORTION, 	Located at index: 80
+Initial value: LONG, 	Located at index: 59
+Initial value: TO, 	Located at index: 77
+Initial value: CIVIL, 	Located at index: 41
+Initial value: OF, 	Located at index: 81
+Initial value: MET, 	Located at index: 64
+Initial value: AS, 	Located at index: 85
+Initial value: RESTING, 	Located at index: 88
+Initial value: OR, 	Located at index: 49
+Initial value: THAT, 	Located at index: 71
+Initial value: FOR, 	Located at index: 90
+Initial value: FINAL, 	Located at index: 87
+Initial value: FIELD, 	Located at index: 83
+Initial value: AND, 	Located at index: 54
+Initial value: WHO, 	Located at index: 92
+Initial value: IT, 	Located at index: 103
+Initial value: PLACE, 	Located at index: 89
+Initial value: THAT, 	Located at index: 82
+Initial value: DEDICATED, 	Located at index: 56
+Initial value: THOSE, 	Located at index: 91
+Initial value: HERE, 	Located at index: 93
+Initial value: THEIR, 	Located at index: 95
+Initial value: LIVES, 	Located at index: 96
+Initial value: CAN, 	Located at index: 58
+Initial value: DO, 	Located at index: 112
+Initial value: THAT, 	Located at index: 97
+Initial value: GAVE, 	Located at index: 94
+Initial value: IS, 	Located at index: 104
+Initial value: ENDURE, 	Located at index: 60
+Initial value: THAT, 	Located at index: 98
+Initial value: LARGER, 	Located at index: 118
+Initial value: PROPER, 	Located at index: 108
+Initial value: CONSECRATE, 	Located at index: 131
+Initial value: A, 	Located at index: 66
+Initial value: SHOULD, 	Located at index: 111
+Initial value: WE, 	Located at index: 110
+Initial value: BRAVE, 	Located at index: 146
+Initial value: NATION, 	Located at index: 99
+Initial value: DEDICATE, 	Located at index: 78
+Initial value: THIS, 	Located at index: 113
+Initial value: GROUND, 	Located at index: 143
+Initial value: LIVE, 	Located at index: 101
+Initial value: MEN, 	Located at index: 147
+Initial value: A, 	Located at index: 79
+Initial value: WHO, 	Located at index: 153
+Initial value: FITTING, 	Located at index: 106
+Initial value: HERE, 	Located at index: 155
+Initial value: BUT, 	Located at index: 114
+Initial value: A, 	Located at index: 86
+Initial value: THAT, 	Located at index: 109
+Initial value: HAVE, 	Located at index: 157
+Initial value: WE, 	Located at index: 121
+Initial value: CONSECRATED, 	Located at index: 158
+Initial value: MIGHT, 	Located at index: 100
+Initial value: ABOVE, 	Located at index: 162
+Initial value: WE, 	Located at index: 128
+Initial value: FAR, 	Located at index: 161
+Initial value: SENSE, 	Located at index: 119
+Initial value: ALTOGETHER, 	Located at index: 105
+Initial value: WE, 	Located at index: 135
+Initial value: OUR, 	Located at index: 163
+Initial value: THIS, 	Located at index: 142
+Initial value: POWER, 	Located at index: 165
+Initial value: AND, 	Located at index: 107
+Initial value: DETRACT, 	Located at index: 169
+Initial value: LIVING, 	Located at index: 149
+Initial value: TO, 	Located at index: 166
+Initial value: IT, 	Located at index: 159
+Initial value: IN, 	Located at index: 116
+Initial value: STRUGGLED, 	Located at index: 154
+Initial value: LITTLE, 	Located at index: 174
+Initial value: WORLD, 	Located at index: 172
+Initial value: ADD, 	Located at index: 167
+Initial value: A, 	Located at index: 117
+Initial value: NOR, 	Located at index: 177
+Initial value: WILL, 	Located at index: 173
+Initial value: NOTE, 	Located at index: 175
+Initial value: LONG, 	Located at index: 178
+Initial value: CAN, 	Located at index: 122
+Initial value: WHAT, 	Located at index: 180
+Initial value: REMEMBER, 	Located at index: 179
+Initial value: WE, 	Located at index: 181
+Initial value: SAY, 	Located at index: 182
+Initial value: NOT, 	Located at index: 123
+Initial value: HERE, 	Located at index: 183
+Initial value: BUT, 	Located at index: 185
+Initial value: HERE, 	Located at index: 193
+Initial value: IT, 	Located at index: 186
+Initial value: DEDICATE, 	Located at index: 124
+Initial value: NEVER, 	Located at index: 188
+Initial value: US, 	Located at index: 198
+Initial value: WHAT, 	Located at index: 190
+Initial value: HERE, 	Located at index: 207
+Initial value: , 	Located at index: 125
+Initial value: FOR, 	Located at index: 197
+Initial value: THEY, 	Located at index: 191
+Initial value: BE, 	Located at index: 205
+Initial value: IT, 	Located at index: 195
+Initial value: , 	Located at index: 126
+Initial value: IS, 	Located at index: 196
+Initial value: UNFINISHED, 	Located at index: 210
+Initial value: LIVING, 	Located at index: 200
+Initial value: TO, 	Located at index: 204
+Initial value: , 	Located at index: 127
+Initial value: WHICH, 	Located at index: 212
+Initial value: THEY, 	Located at index: 213
+Initial value: TO, 	Located at index: 208
+Initial value: WHO, 	Located at index: 214
+Initial value: CAN, 	Located at index: 129
+Initial value: FOUGHT, 	Located at index: 215
+Initial value: HERE, 	Located at index: 216
+Initial value: IT, 	Located at index: 224
+Initial value: HAVE, 	Located at index: 217
+Initial value: NOT, 	Located at index: 130
+Initial value: THUS, 	Located at index: 218
+Initial value: NOBLY, 	Located at index: 221
+Initial value: FAR, 	Located at index: 219
+Initial value: IS, 	Located at index: 225
+Initial value: , 	Located at index: 132
+Initial value: US, 	Located at index: 228
+Initial value: BE, 	Located at index: 230
+Initial value: FOR, 	Located at index: 227
+Initial value: SO, 	Located at index: 220
+Initial value: , 	Located at index: 133
+Initial value: HERE, 	Located at index: 231
+Initial value: GREAT, 	Located at index: 235
+Initial value: TO, 	Located at index: 229
+Initial value: REMAINING, 	Located at index: 237
+Initial value: , 	Located at index: 134
+Initial value: TASK, 	Located at index: 236
+Initial value: TO, 	Located at index: 233
+Initial value: BEFORE, 	Located at index: 238
+Initial value: US, 	Located at index: 239
+Initial value: CAN, 	Located at index: 136
+Initial value: TAKE, 	Located at index: 249
+Initial value: DEAD, 	Located at index: 247
+Initial value: FROM, 	Located at index: 244
+Initial value: THAT, 	Located at index: 243
+Initial value: NOT, 	Located at index: 137
+Initial value: WE, 	Located at index: 248
+Initial value: INCREASED, 	Located at index: 250
+Initial value: THAT, 	Located at index: 253
+Initial value: DEVOTION, 	Located at index: 251
+Initial value: HALLOW, 	Located at index: 138
+Initial value: CAUSE, 	Located at index: 254
+Initial value: FOR, 	Located at index: 255
+Initial value: TO, 	Located at index: 252
+Initial value: WHICH, 	Located at index: 256
+Initial value: , 	Located at index: 139
+Initial value: THEY, 	Located at index: 257
+Initial value: OF, 	Located at index: 263
+Initial value: LAST, 	Located at index: 260
+Initial value: GAVE, 	Located at index: 258
+Initial value: , 	Located at index: 140
+Initial value: DEVOTION, 	Located at index: 264
+Initial value: WE, 	Located at index: 269
+Initial value: HERE, 	Located at index: 270
+Initial value: FULL, 	Located at index: 261
+Initial value: , 	Located at index: 141
+Initial value: DEAD, 	Located at index: 275
+Initial value: RESOLVE, 	Located at index: 272
+Initial value: THAT, 	Located at index: 268
+Initial value: SHALL, 	Located at index: 276
+Initial value: , 	Located at index: 144
+Initial value: HAVE, 	Located at index: 278
+Initial value: THAT, 	Located at index: 273
+Initial value: DIED, 	Located at index: 279
+Initial value: THIS, 	Located at index: 286
+Initial value: THE, 	Located at index: 145
+Initial value: THAT, 	Located at index: 285
+Initial value: GOD, 	Located at index: 290
+Initial value: SHALL, 	Located at index: 292
+Initial value: HAVE, 	Located at index: 293
+Initial value: , 	Located at index: 148
+Initial value: OF, 	Located at index: 297
+Initial value: NEW, 	Located at index: 295
+Initial value: FREEDOM, 	Located at index: 298
+Initial value: NATION, 	Located at index: 287
+Initial value: AND, 	Located at index: 150
+Initial value: OF, 	Located at index: 305
+Initial value: SHALL, 	Located at index: 317
+Initial value: UNDER, 	Located at index: 289
+Initial value: EARTH, 	Located at index: 322
+Initial value: , 	Located at index: 152
+Initial value: GOVERNMENT, 	Located at index: 304
+Initial value: THAT, 	Located at index: 303
+Initial value: BY, 	Located at index: 309
+Initial value: , 	Located at index: 156
+Initial value: PERISH, 	Located at index: 319
+Initial value: FOR, 	Located at index: 313
+Initial value: , 	Located at index: 160
+Initial value: FROM, 	Located at index: 320
+Initial value: POOR, 	Located at index: 164
+Initial value: OR, 	Located at index: 168
+Initial value: , 	Located at index: 170
+Initial value: THE, 	Located at index: 171
+Initial value: , 	Located at index: 176
+Initial value: , 	Located at index: 184
+Initial value: CAN, 	Located at index: 187
+Initial value: FORGET, 	Located at index: 189
+Initial value: , 	Located at index: 194
+Initial value: THE, 	Located at index: 199
+Initial value: , 	Located at index: 201
+Initial value: RATHER, 	Located at index: 202
+Initial value: , 	Located at index: 203
+Initial value: DEDICATED, 	Located at index: 206
+Initial value: THE, 	Located at index: 209
+Initial value: WORK, 	Located at index: 211
+Initial value: ADVANCED, 	Located at index: 222
+Initial value: , 	Located at index: 223
+Initial value: RATHER, 	Located at index: 226
+Initial value: DEDICATED, 	Located at index: 232
+Initial value: THE, 	Located at index: 234
+Initial value: , 	Located at index: 240
+Initial value: , 	Located at index: 241
+Initial value: , 	Located at index: 242
+Initial value: THESE, 	Located at index: 245
+Initial value: HONORED, 	Located at index: 246
+Initial value: THE, 	Located at index: 259
+Initial value: MEASURE, 	Located at index: 262
+Initial value: , 	Located at index: 265
+Initial value: , 	Located at index: 266
+Initial value: , 	Located at index: 267
+Initial value: HIGHLY, 	Located at index: 271
+Initial value: THESE, 	Located at index: 274
+Initial value: NOT, 	Located at index: 277
+Initial value: IN, 	Located at index: 280
+Initial value: VAIN, 	Located at index: 281
+Initial value: , 	Located at index: 282
+Initial value: , 	Located at index: 283
+Initial value: , 	Located at index: 284
+Initial value: , 	Located at index: 288
+Initial value: , 	Located at index: 291
+Initial value: A, 	Located at index: 294
+Initial value: BIRTH, 	Located at index: 296
+Initial value: , 	Located at index: 299
+Initial value: , 	Located at index: 300
+Initial value: , 	Located at index: 301
+Initial value: AND, 	Located at index: 302
+
+Sorted Output:
+Key = ,	Count = 51
+Key = A,	Count = 7
+Key = ABOVE,	Count = 1
+Key = ADD,	Count = 1
+Key = ADVANCED,	Count = 1
+Key = AGO,	Count = 1
+Key = ALL,	Count = 1
+Key = ALTOGETHER,	Count = 1
+Key = AND,	Count = 6
+Key = ANY,	Count = 1
+Key = ARE,	Count = 3
+Key = AS,	Count = 1
+Key = BATTLE,	Count = 1
+Key = BE,	Count = 2
+Key = BEFORE,	Count = 1
+Key = BIRTH,	Count = 1
+Key = BRAVE,	Count = 1
+Key = BROUGHT,	Count = 1
+Key = BUT,	Count = 2
+Key = BY,	Count = 1
+Key = CAN,	Count = 5
+Key = CAUSE,	Count = 1
+Key = CIVIL,	Count = 1
+Key = COME,	Count = 1
+Key = CONCEIVED,	Count = 2
+Key = CONSECRATE,	Count = 1
+Key = CONSECRATED,	Count = 1
+Key = CONTINENT,	Count = 1
+Key = CREATED,	Count = 1
+Key = DEAD,	Count = 3
+Key = DEDICATE,	Count = 2
+Key = DEDICATED,	Count = 4
+Key = DETRACT,	Count = 1
+Key = DEVOTION,	Count = 2
+Key = DID,	Count = 1
+Key = DIED,	Count = 1
+Key = DO,	Count = 1
+Key = EARTH,	Count = 1
+Key = ENDURE,	Count = 1
+Key = ENGAGED,	Count = 1
+Key = EQUAL,	Count = 1
+Key = FAR,	Count = 2
+Key = FATHERS,	Count = 1
+Key = FIELD,	Count = 2
+Key = FINAL,	Count = 1
+Key = FITTING,	Count = 1
+Key = FOR,	Count = 5
+Key = FORGET,	Count = 1
+Key = FORTH,	Count = 1
+Key = FOUGHT,	Count = 1
+Key = FOUR,	Count = 1
+Key = FREEDOM,	Count = 1
+Key = FROM,	Count = 2
+Key = FULL,	Count = 1
+Key = GAVE,	Count = 2
+Key = GOD,	Count = 1
+Key = GOVERNMENT,	Count = 1
+Key = GREAT,	Count = 3
+Key = GROUND,	Count = 1
+Key = HALLOW,	Count = 1
+Key = HAVE,	Count = 5
+Key = HERE,	Count = 8
+Key = HIGHLY,	Count = 1
+Key = HONORED,	Count = 1
+Key = IN,	Count = 4
+Key = INCREASED,	Count = 1
+Key = IS,	Count = 3
+Key = IT,	Count = 5
+Key = LARGER,	Count = 1
+Key = LAST,	Count = 1
+Key = LIBERTY,	Count = 1
+Key = LITTLE,	Count = 1
+Key = LIVE,	Count = 1
+Key = LIVES,	Count = 1
+Key = LIVING,	Count = 2
+Key = LONG,	Count = 2
+Key = MEASURE,	Count = 1
+Key = MEN,	Count = 2
+Key = MET,	Count = 1
+Key = MIGHT,	Count = 1
+Key = NATION,	Count = 5
+Key = NEVER,	Count = 1
+Key = NEW,	Count = 2
+Key = NOBLY,	Count = 1
+Key = NOR,	Count = 1
+Key = NOT,	Count = 5
+Key = NOTE,	Count = 1
+Key = NOW,	Count = 1
+Key = OF,	Count = 5
+Key = ON,	Count = 2
+Key = OR,	Count = 2
+Key = OUR,	Count = 2
+Key = PEOPLE,	Count = 3
+Key = PERISH,	Count = 1
+Key = PLACE,	Count = 1
+Key = POOR,	Count = 1
+Key = PORTION,	Count = 1
+Key = POWER,	Count = 1
+Key = PROPER,	Count = 1
+Key = PROPOSITION,	Count = 1
+Key = RATHER,	Count = 2
+Key = REMAINING,	Count = 1
+Key = REMEMBER,	Count = 1
+Key = RESOLVE,	Count = 1
+Key = RESTING,	Count = 1
+Key = SAY,	Count = 1
+Key = SCORE,	Count = 1
+Key = SENSE,	Count = 1
+Key = SEVEN,	Count = 1
+Key = SHALL,	Count = 3
+Key = SHOULD,	Count = 1
+Key = SO,	Count = 3
+Key = STRUGGLED,	Count = 1
+Key = TAKE,	Count = 1
+Key = TASK,	Count = 1
+Key = TESTING,	Count = 1
+Key = THAT,	Count = 13
+Key = THE,	Count = 11
+Key = THEIR,	Count = 1
+Key = THESE,	Count = 2
+Key = THEY,	Count = 3
+Key = THIS,	Count = 4
+Key = THOSE,	Count = 1
+Key = THUS,	Count = 1
+Key = TO,	Count = 8
+Key = UNDER,	Count = 1
+Key = UNFINISHED,	Count = 1
+Key = US,	Count = 3
+Key = VAIN,	Count = 1
+Key = WAR,	Count = 2
+Key = WE,	Count = 10
+Key = WHAT,	Count = 2
+Key = WHETHER,	Count = 1
+Key = WHICH,	Count = 2
+Key = WHO,	Count = 3
+Key = WILL,	Count = 1
+Key = WORK,	Count = 1
+Key = WORLD,	Count = 1
+Key = YEARS,	Count = 1
+
+Process finished with exit code 0
